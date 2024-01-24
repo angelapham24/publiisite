@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>angelalovescoco</title>
+    <link href="https://angelapham24.github.io/publiisite/feed.xml" rel="self" />
+    <link href="https://angelapham24.github.io/publiisite" />
+    <updated>2024-01-24T14:37:13-08:00</updated>
+    <author>
+        <name>Angela Pham</name>
+    </author>
+    <id>https://angelapham24.github.io/publiisite</id>
+
+    <entry>
+        <title>Coco is always judging...</title>
+        <author>
+            <name>Angela Pham</name>
+        </author>
+        <link href="https://angelapham24.github.io/publiisite/coco-is-always-judging.html"/>
+        <id>https://angelapham24.github.io/publiisite/coco-is-always-judging.html</id>
+        <media:content url="https://angelapham24.github.io/publiisite/media/posts/3/IMG_2422.jpeg" medium="image" />
+
+        <updated>2024-01-24T14:37:13-08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://angelapham24.github.io/publiisite/media/posts/3/IMG_2422.jpeg" alt="" />
+                    Why have you come to Coco today? a. you're salty and u need a lick b. u would like to learn the ways of the fluff and loaf c. u need a trot buddy d. u are in need of a loving therapist 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://angelapham24.github.io/publiisite/media/posts/3/IMG_2422.jpeg" class="type:primaryImage" alt="" /></p>
+                <p>Why have you come to Coco today? </p>
+<p>a. <a href="https://www.quora.com/Why-does-my-dog-like-to-lick-my-sweat-after-a-workout">you're salty and u need a lick</a></p>
+<p>b. <a href="https://www.wikihow.com/Fluff-Your-Bichon-Frise">u would like to learn the ways of the fluff and loaf</a></p>
+<p>c. <a href="https://petcalculator.com/how-fast-can-bichon-frise-run/">u need a trot buddy</a></p>
+<p>d. <a href="https://petpedia.co/dog-statistics/">u are in need of a loving therapist</a> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Meet the Team</title>
+        <author>
+            <name>Angela Pham</name>
+        </author>
+        <link href="https://angelapham24.github.io/publiisite/meet-the-team.html"/>
+        <id>https://angelapham24.github.io/publiisite/meet-the-team.html</id>
+
+        <updated>2024-01-24T14:22:52-08:00</updated>
+            <summary>
+                <![CDATA[
+                    Angela Pham Principal Designer
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2>Angela Pham</h2>
+<h3>Principal Designer </h3>
+<figure class="post__image"><img loading="lazy"  src="https://angelapham24.github.io/publiisite/media/posts/2/IMG_0160.JPG" alt="" width="213" height="284" sizes="100vw" srcset="https://angelapham24.github.io/publiisite/media/posts/2/responsive/IMG_0160-xs.JPG 300w ,https://angelapham24.github.io/publiisite/media/posts/2/responsive/IMG_0160-sm.JPG 480w ,https://angelapham24.github.io/publiisite/media/posts/2/responsive/IMG_0160-md.JPG 768w ,https://angelapham24.github.io/publiisite/media/posts/2/responsive/IMG_0160-lg.JPG 1024w ,https://angelapham24.github.io/publiisite/media/posts/2/responsive/IMG_0160-xl.JPG 1360w ,https://angelapham24.github.io/publiisite/media/posts/2/responsive/IMG_0160-2xl.JPG 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Angela Loves Coco</title>
+        <author>
+            <name>Angela Pham</name>
+        </author>
+        <link href="https://angelapham24.github.io/publiisite/angela-loves-coco.html"/>
+        <id>https://angelapham24.github.io/publiisite/angela-loves-coco.html</id>
+        <media:content url="https://angelapham24.github.io/publiisite/media/posts/1/IMG_1189.JPG" medium="image" />
+
+        <updated>2024-01-24T14:32:26-08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://angelapham24.github.io/publiisite/media/posts/1/IMG_1189.JPG" alt="" />
+                    An Ode to Coco Woah, coco, you're so fine, you're so chill you're a suave guy, and that's no frills when u go trot, I go trot trot Coco's the best, that's what I was taught
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://angelapham24.github.io/publiisite/media/posts/1/IMG_1189.JPG" class="type:primaryImage" alt="" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/QjeOMrzq1FE" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<p> </p>
+<p>An Ode to Coco</p>
+<p>Woah, coco, you're so fine, you're so chill</p>
+<p>you're a suave guy, and that's no frills</p>
+<p>when u go trot, I go trot trot</p>
+<p>Coco's the best, that's what I was taught</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

@@ -1,0 +1,58 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "angelalovescoco",
+    "description": "",
+    "home_page_url": "https://angelapham24.github.io/publiisite",
+    "feed_url": "https://angelapham24.github.io/publiisite/feed.json",
+    "user_comment": "",
+    "icon": "https://angelapham24.github.io/publiisite/media/website/IMG_0049.JPG",
+    "author": {
+        "name": "Angela Pham"
+    },
+    "items": [
+        {
+            "id": "https://angelapham24.github.io/publiisite/coco-is-always-judging.html",
+            "url": "https://angelapham24.github.io/publiisite/coco-is-always-judging.html",
+            "title": "Coco is always judging...",
+            "summary": "Why have you come to Coco today? a. you're salty and u need a lick b. u would like to learn the ways of the fluff and loaf c. u need a trot buddy d. u are in need of a loving therapist ",
+            "content_html": "<p>Why have you come to Coco today? </p>\n<p>a. <a href=\"https://www.quora.com/Why-does-my-dog-like-to-lick-my-sweat-after-a-workout\">you're salty and u need a lick</a></p>\n<p>b. <a href=\"https://www.wikihow.com/Fluff-Your-Bichon-Frise\">u would like to learn the ways of the fluff and loaf</a></p>\n<p>c. <a href=\"https://petcalculator.com/how-fast-can-bichon-frise-run/\">u need a trot buddy</a></p>\n<p>d. <a href=\"https://petpedia.co/dog-statistics/\">u are in need of a loving therapist</a> </p>",
+            "image": "https://angelapham24.github.io/publiisite/media/posts/3/IMG_2422.jpeg",
+            "author": {
+                "name": "Angela Pham"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-01-24T14:37:13-08:00",
+            "date_modified": "2024-01-24T14:37:13-08:00"
+        },
+        {
+            "id": "https://angelapham24.github.io/publiisite/meet-the-team.html",
+            "url": "https://angelapham24.github.io/publiisite/meet-the-team.html",
+            "title": "Meet the Team",
+            "summary": "Angela Pham Principal Designer",
+            "content_html": "<h2>Angela Pham</h2>\n<h3>Principal Designer </h3>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://angelapham24.github.io/publiisite/media/posts/2/IMG_0160.JPG\" alt=\"\" width=\"213\" height=\"284\" sizes=\"100vw\" srcset=\"https://angelapham24.github.io/publiisite/media/posts/2/responsive/IMG_0160-xs.JPG 300w ,https://angelapham24.github.io/publiisite/media/posts/2/responsive/IMG_0160-sm.JPG 480w ,https://angelapham24.github.io/publiisite/media/posts/2/responsive/IMG_0160-md.JPG 768w ,https://angelapham24.github.io/publiisite/media/posts/2/responsive/IMG_0160-lg.JPG 1024w ,https://angelapham24.github.io/publiisite/media/posts/2/responsive/IMG_0160-xl.JPG 1360w ,https://angelapham24.github.io/publiisite/media/posts/2/responsive/IMG_0160-2xl.JPG 1600w\"></figure>",
+            "author": {
+                "name": "Angela Pham"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-01-24T14:22:52-08:00",
+            "date_modified": "2024-01-24T14:22:52-08:00"
+        },
+        {
+            "id": "https://angelapham24.github.io/publiisite/angela-loves-coco.html",
+            "url": "https://angelapham24.github.io/publiisite/angela-loves-coco.html",
+            "title": "Angela Loves Coco",
+            "summary": "An Ode to Coco Woah, coco, you're so fine, you're so chill you're a suave guy, and that's no frills when u go trot, I go trot trot Coco's the best, that's what I was taught",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/QjeOMrzq1FE\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>\n<p> </p>\n<p>An Ode to Coco</p>\n<p>Woah, coco, you're so fine, you're so chill</p>\n<p>you're a suave guy, and that's no frills</p>\n<p>when u go trot, I go trot trot</p>\n<p>Coco's the best, that's what I was taught</p>\n<p> </p>",
+            "image": "https://angelapham24.github.io/publiisite/media/posts/1/IMG_1189.JPG",
+            "author": {
+                "name": "Angela Pham"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-01-24T14:00:40-08:00",
+            "date_modified": "2024-01-24T14:32:26-08:00"
+        }
+    ]
+}
